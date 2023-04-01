@@ -1,0 +1,29 @@
+.home{
+  
+    width:100vw;
+    min-height:100vh ;
+    margin-top: 3rem;;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  background-color: #00000073;
+}
+hr{
+    border:1px solid #6965ff ;
+  margin-top:5px;
+  border-width: 3px;
+}
+
+span{
+    font-size:1.7rem;
+    padding:10px;
+    margin-left: 1.5rem;
+    color:#6969ff;
+
+}
+.active{
+    background-color: gold;
+    border-radius: 20%;;
+    color:white;
+}
